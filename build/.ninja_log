@@ -1,0 +1,4 @@
+# ninja log v5
+0	62	1629417251584697792	CMakeFiles/Compiler.dir/src/Compiler.c.o	b3a98ccbbc555cea
+1	62	1629417251584741874	CMakeFiles/Compiler.dir/src/Lexer.c.o	17e7b3031c3a36f1
+62	127	1629417251651996063	Compiler	ce1c2fe638ebf756
