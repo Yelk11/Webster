@@ -1,12 +1,12 @@
 [
 {
-  "directory": "/Users/matt/Documents/GitHub/c-compiler/build",
-  "command": "/usr/bin/clang -I../include -I../src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -o CMakeFiles/Compiler.dir/src/Compiler.c.o -c /Users/matt/Documents/GitHub/c-compiler/src/Compiler.c",
-  "file": "/Users/matt/Documents/GitHub/c-compiler/src/Compiler.c"
+  "directory": "C:/Dev/Github/c-compiler/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/Compiler.dir/includes_C.rsp -g   -o CMakeFiles\\Compiler.dir\\src\\Compiler.c.obj   -c C:\\Dev\\Github\\c-compiler\\src\\Compiler.c",
+  "file": "C:/Dev/Github/c-compiler/src/Compiler.c"
 },
 {
-  "directory": "/Users/matt/Documents/GitHub/c-compiler/build",
-  "command": "/usr/bin/clang -I../include -I../src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -o CMakeFiles/Compiler.dir/src/Lexer.c.o -c /Users/matt/Documents/GitHub/c-compiler/src/Lexer.c",
-  "file": "/Users/matt/Documents/GitHub/c-compiler/src/Lexer.c"
+  "directory": "C:/Dev/Github/c-compiler/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/Compiler.dir/includes_C.rsp -g   -o CMakeFiles\\Compiler.dir\\src\\lexer.c.obj   -c C:\\Dev\\Github\\c-compiler\\src\\lexer.c",
+  "file": "C:/Dev/Github/c-compiler/src/lexer.c"
 }
 ]
