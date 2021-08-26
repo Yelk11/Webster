@@ -59,8 +59,8 @@
 			"language" : "C",
 			"sourceIndexes" : 
 			[
-				1,
-				2
+				2,
+				3
 			]
 		}
 	],
@@ -93,15 +93,16 @@
 			"name" : "Header Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1
 			]
 		},
 		{
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				1,
-				2
+				2,
+				3
 			]
 		}
 	],
@@ -110,6 +111,11 @@
 		{
 			"backtrace" : 1,
 			"path" : "include/Lexer.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/Token.h",
 			"sourceGroupIndex" : 0
 		},
 		{

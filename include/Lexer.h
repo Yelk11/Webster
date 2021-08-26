@@ -1,7 +1,10 @@
+#ifndef LEXER_H
+#define LEXER_H
 
-struct Lexer{
-    char* type;
-    char* 
+
+typedef struct Lexer{
+    char* data;
+    
 }lexer_t;
 
 void initLexer(char* input_str);
@@ -9,3 +12,4 @@ void initLexer(char* input_str);
 
 
 
+#endif

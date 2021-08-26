@@ -1,4 +1,21 @@
 # ninja log v5
-0	62	1629417251584697792	CMakeFiles/Compiler.dir/src/Compiler.c.o	b3a98ccbbc555cea
-1	62	1629417251584741874	CMakeFiles/Compiler.dir/src/Lexer.c.o	17e7b3031c3a36f1
 62	127	1629417251651996063	Compiler	ce1c2fe638ebf756
+1	62	1629417251584741874	CMakeFiles/Compiler.dir/src/Lexer.c.o	17e7b3031c3a36f1
+0	62	1629417251584697792	CMakeFiles/Compiler.dir/src/Compiler.c.o	b3a98ccbbc555cea
+0	73	1629927736635984510	CMakeFiles/Compiler.dir/src/Compiler.c.o	b3a98ccbbc555cea
+0	49	1629927907183614366	CMakeFiles/Compiler.dir/src/Lexer.c.o	17e7b3031c3a36f1
+49	127	1629927907262174471	Compiler	ce1c2fe638ebf756
+0	50	1629927928139928237	CMakeFiles/Compiler.dir/src/Lexer.c.o	17e7b3031c3a36f1
+50	116	1629927928207198478	Compiler	ce1c2fe638ebf756
+0	48	1629927946005288194	CMakeFiles/Compiler.dir/src/Lexer.c.o	17e7b3031c3a36f1
+48	113	1629927946070953407	Compiler	ce1c2fe638ebf756
+0	68	1629928448154967254	CMakeFiles/Compiler.dir/src/Compiler.c.o	b3a98ccbbc555cea
+0	50	1629928462018195173	CMakeFiles/Compiler.dir/src/Lexer.c.o	17e7b3031c3a36f1
+51	119	1629928462087410389	Compiler	ce1c2fe638ebf756
+0	52	1629928502475737816	CMakeFiles/Compiler.dir/src/Lexer.c.o	17e7b3031c3a36f1
+52	117	1629928502541727684	Compiler	ce1c2fe638ebf756
+0	48	1629928510798945371	CMakeFiles/Compiler.dir/src/Lexer.c.o	17e7b3031c3a36f1
+48	114	1629928510865797127	Compiler	ce1c2fe638ebf756
+1	86	1629931096925766868	CMakeFiles/Compiler.dir/src/Compiler.c.o	b3a98ccbbc555cea
+0	54	1629931146378253246	CMakeFiles/Compiler.dir/src/Lexer.c.o	17e7b3031c3a36f1
+55	134	1629931146458667390	Compiler	ce1c2fe638ebf756

@@ -1,6 +1,9 @@
 
 1. Lexer
-    This part of the program will scan in all of the charectors and output meaningful lexems, or tokens.
+    This part of the program will take in a file stream and break down the file into words.
+    This stream of words will be used to create a token which contains the token type, and the value of the token.
+
+
 2. Parser (Syntax Analyser)
     This part of the program will take the stream of tokens and create a syntax tree (AST). 
     The program will also check if ther are any syntactical errors.
